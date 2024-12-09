@@ -1,0 +1,5 @@
+banana,банан,banana.png
+brother,брат,brother.png
+letter,буква,letter.png
+paper,бумага,paper.png
+water,вода,water.png
